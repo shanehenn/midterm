@@ -1,5 +1,5 @@
 # cd-wordpress
-continuous deployment wordpress
+a christmas themed webpage created by shane hennessey to try capture what makes Christmas the best time of the year!
 
 TLDR;
 
